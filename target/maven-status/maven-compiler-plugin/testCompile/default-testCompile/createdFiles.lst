@@ -1,0 +1,8 @@
+com\example\freshspringboot\suites\SuiteStudentUnitTest.class
+com\example\freshspringboot\suites\SuitEmployeeUnitTest.class
+com\example\freshspringboot\employee\EmployeeServiceTest.class
+com\example\freshspringboot\student\StudentsServiceTest.class
+com\example\freshspringboot\FreshSpringbootApplicationTests.class
+com\example\freshspringboot\student\StudentDBTest.class
+com\example\freshspringboot\suites\SuiteRunner.class
+com\example\freshspringboot\employee\EmployeeDBTest.class
